@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Assignment-02</string>
+    <string name="quote_1">Named after the ancient Greek story of the wooden horse, Trojan horses appear to be legitimate software but contain hidden malicious code. Once installed, they can perform a variety of harmful actions,
+        such as stealing data or providing unauthorized access to the system.</string>
+
+    <string name="quote_2">Disguise and Deception:Trojans are designed to appear as harmless or beneficial software to entice users to install them.
+        They may be disguised as games, utilities, or seemingly legitimate files or attachments</string>
+
+    <string name="quote_3">This type of malware encrypts a user files and demands payment
+        (usually in cryptocurrency) for the decryption key.
+        Victims are essentially held hostage until they pay the ransom.</string>
+
+    <string name="quote_4">Ransomware is a type of malicious software designed to encrypt files on a victims computer or network, rendering them inaccessible. The attackers then demand a ransom, typically in cryptocurrency, in exchange for providing the decryption key or tool to restore access to the files. Ransomware attacks can be devastating
+        for individuals, businesses, and organizations, causing data loss, financial harm,
+        and operational disruptions.</string>
+
+    <string name="quote_5">
+        A computer worm is a type of malware that replicates itself to spread across computer networks and systems, often without any user intervention. Unlike viruses, worms do not need to attach themselves to existing programs or files to propagate. They operate independently and can exploit security vulnerabilities to infect multiple computers rapidly. Worms can have various purposes, including spreading other malware, stealing data,
+        or launching attacks such as distributed denial-of-service (DDoS) attacks.</string>
+
+    <string name="quote_6">Worms are standalone malicious programs that replicate and spread across networks without needing a host file.
+        They often exploit vulnerabilities in network protocols to spread rapidly.</string>
+
+    <string name="quote_7">A keylogger, short for keystroke logger, is a type of malicious software or hardware device designed to record and log the keystrokes
+        typed on a computer or mobile device. The primary purpose of a keylogger is to capture sensitive information such as login credentials,
+        passwords, credit card numbers, and other confidential data entered by the user. Keyloggers can pose significant security threats,
+        as they allow unauthorized individuals to monitor and collect users keystrokes without their knowledge.</string>
+
+
+    <string name="quote_8"> These tools record the keystrokes of a user without their knowledge, potentially capturing
+        sensitive information such as passwords and credit card numbers.</string>
+
+</resources>
